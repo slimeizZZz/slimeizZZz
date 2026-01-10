@@ -17,4 +17,4 @@
 - <b>Temperature Sensor</b>
   - [Making a Temperature Senosr using a NTC thermistor](https://github.com/slimeizZZz/Temperature-Sensor)
 - <b>Electronic Dice</b>
-  - [Making an Electronic Dice using LEDs and an ESP32](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Making an Electronic Dice using LEDs and an ESP32](https://github.com/slimeizZZz/Electronic-Dice)
