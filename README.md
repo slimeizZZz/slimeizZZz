@@ -7,7 +7,7 @@
 - <b>Tetris</b>
   - [Making a Tetris Game using Arduino](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Parking Sensor</b>
-  - [Making a Parking Sensor using Arduino](https://github.com/slimeizZZz/Parking-Sensor/edit/main/README.md)
+  - [Making a Parking Sensor using Arduino](https://github.com/slimeizZZz/Parking-Sensor)
 - <b>Humidity Sensor</b>
   - [Making a Humidity Sensor using Arduino](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Joke Machine</b>
