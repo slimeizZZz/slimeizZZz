@@ -3,7 +3,7 @@
 <h2>👨‍💻 Electronics Personal Projects:</h2>
 
 - <b>Snake</b>
-  - [Making a Snake Game using Arduino](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Making a Snake Game using Arduino](https://github.com/slimeizZZz/Snake-Project)
 - <b>Tetris</b>
   - [Making a Tetris Game using Arduino](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Parking Sensor</b>
