@@ -5,7 +5,7 @@
 - <b>Snake</b>
   - [Making a Snake Game using Arduino](https://github.com/slimeizZZz/Snake-Project)
 - <b>Tetris</b>
-  - [Making a Tetris Game using Arduino](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Making a Tetris Game using Arduino](https://github.com/slimeizZZz/Tetris) <b>
 - <b>Parking Sensor</b>
   - [Making a Parking Sensor using Arduino](https://github.com/slimeizZZz/Parking-Sensor)
 - <b>Humidity Sensor</b>
