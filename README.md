@@ -15,6 +15,6 @@
 - <b>MATLAB Plotting of an Analogic Signal</b>    
   - [Plotting a MATLAB Graph of an Analogic Signal coming form a Simple circuit with an ESP32 and an LED](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Temperature Sensor</b>
-  - [Making a Temperature Senosr using a NTC thermistor](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Making a Temperature Senosr using a NTC thermistor](https://github.com/slimeizZZz/Temperature-Sensor)
 - <b>Electronic Dice</b>
   - [Making an Electronic Dice using LEDs and an ESP32](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
