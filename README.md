@@ -9,7 +9,7 @@
 - <b>Parking Sensor</b>
   - [Making a Parking Sensor using Arduino](https://github.com/slimeizZZz/Parking-Sensor)
 - <b>Humidity Sensor</b>
-  - [Making a Humidity Sensor using Arduino](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Making a Humidity Sensor using Arduino](https://github.com/slimeizZZz/Humidity-Sensor)
 - <b>Joke Machine</b>
   - [Making a Joke Machine Communicating through WI-FI using Arduino](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>MATLAB Plotting of an Analogic Signal</b>    
