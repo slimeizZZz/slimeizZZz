@@ -11,7 +11,7 @@
 - <b>Humidity Sensor</b>
   - [Making a Humidity Sensor using Arduino](https://github.com/slimeizZZz/Humidity-Sensor)
 - <b>Joke Machine</b>
-  - [Making a Joke Machine Communicating through WI-FI using Arduino](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Making a Joke Machine Communicating through WI-FI using Arduino](https://github.com/slimeizZZz/Joke-Machine/tree/main)
 - <b>MATLAB Plotting of an Analogic Signal</b>    
   - [Plotting a MATLAB Graph of an Analogic Signal coming form a Simple circuit with an ESP32 and an LED](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Temperature Sensor</b>
