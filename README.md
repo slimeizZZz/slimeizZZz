@@ -10,7 +10,7 @@
 - <b>Tetris</b>
   - [Making a Tetris Game ](https://github.com/slimeizZZz/Tetris) <b>
 - <b>LED Amplifier with a BJT</b>
-  - [Amplyfing a LED's intesity with a npn transistor](https://github.com/slimeizZZz/Snake-Project)
+  - [Amplyfing a LED's intesity with a npn transistor](https://github.com/slimeizZZz/Amplifier-of-an-LED)
 - <b>Parking Sensor</b>
   - [Making a Parking Sensor ](https://github.com/slimeizZZz/Parking-Sensor) <b>
 - <b>Humidity Sensor</b>
