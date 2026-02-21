@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects in Electronics:</h2>
 
 - <b>Sound Detector</b>
-  - [A sound sensible circuit built with a basic SR latch](https://github.com/slimeizZZz/Snake-Project) <b>
+  - [A sound sensible circuit built with a basic SR latch](https://github.com/slimeizZZz/Sound-Detector) <b>
   
 - <b>Snake</b>
   - [Making a Snake Game](https://github.com/slimeizZZz/Snake-Project) <b>
