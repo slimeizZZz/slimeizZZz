@@ -5,7 +5,7 @@
 - <b>Sound Detector</b>
   - [A sound sensible circuit built with a basic SR latch](https://github.com/slimeizZZz/Sound-Detector) <b>
 - <b>Boost Converter</b>
-  - [Multiplying voltage from 5V up to 20V](https://github.com/slimeizZZz/Snake-Project) <b>
+  - [Multiplying voltage from 5V up to 20V](https://github.com/slimeizZZz/Boost-Converter/blob/main/README.md) <b>
 - <b>Snake</b>
   - [Making a Snake Game](https://github.com/slimeizZZz/Snake-Project) <b>
 - <b>Tetris</b>
