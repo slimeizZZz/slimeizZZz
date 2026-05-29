@@ -1,4 +1,4 @@
-<h1>Hello, I'm Vlad! <br/><a>Electronics Student Second Grade</a>
+<h1>Hello, I'm Vlad! <br/><a>Second-Year Electronics Engineering Student </a>
 
 <h2>👨‍💻 Personal Projects in Electronics:</h2>
 
@@ -6,6 +6,8 @@
   - [A sound sensible circuit built with a basic SR latch](https://github.com/slimeizZZz/Sound-Detector) <b>
 - <b>Boost Converter</b>
   - [Multiplying voltage from 5V up to 20V](https://github.com/slimeizZZz/Boost-Converter/blob/main/README.md) <b>
+- <b>Smoke Detector</b>
+  - [Designed on a PCB along with a schematic in CAD](https://github.com/slimeizZZz/Sound-Detector) <b>
 - <b>Snake</b>
   - [Making a Snake Game](https://github.com/slimeizZZz/Snake-Project) <b>
 - <b>Tetris</b>
