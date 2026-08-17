@@ -1,4 +1,4 @@
-<h1>Hello, I'm Vlad! <br/><a>Second-Year Electronics Engineering Student </a>
+<h1>Hello, I'm Vlad! <br/><a>Third-Year Electronics Engineering Student </a>
 
 <h2>👨‍💻 Personal Projects in Electronics:</h2>
 
