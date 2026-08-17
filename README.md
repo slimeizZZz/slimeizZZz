@@ -22,8 +22,8 @@
   - [Making a Humidity Sensor ](https://github.com/slimeizZZz/Humidity-Sensor) <b>
 - <b>Joke Machine</b>
   - [Making a Joke Machine Communicating through WI-FI ](https://github.com/slimeizZZz/Joke-Machine/tree/main) <b>
-- <b>MATLAB Plotting of an Analogic Signal</b>    
-  - [Plotting a MATLAB Graph of an Analogic Signal coming from a Simple circuit with an ESP32 and an LED](https://github.com/slimeizZZz/MATLAB-Project/tree/main) <b>
+- <b>MATLAB Plotting of an Analog Signal</b>    
+  - [Plotting a MATLAB Graph of an Analog Signal coming from a Simple circuit with an ESP32 and an LED](https://github.com/slimeizZZz/MATLAB-Project/tree/main) <b>
 - <b>Temperature Sensor</b>
   - [Making a Temperature Senosr using a NTC thermistor](https://github.com/slimeizZZz/Temperature-Sensor) <b>
 - <b>Electronic Dice</b>
