@@ -3,7 +3,7 @@
 <h2>👨‍💻 Personal Projects in Electronics:</h2>
 
 - <b>Low Power Audio Amplifier</b>
-  - [A class AB audio amplifier](https://github.com/slimeizZZz/Sound-Detector) <b>
+  - [A class AB audio amplifier](https://github.com/slimeizZZz/Low-Power-Audio-Amplifier) <b>
 - <b>Sound Detector</b>
   - [A sound sensible circuit built with a basic SR latch](https://github.com/slimeizZZz/Sound-Detector) <b>
 - <b>Boost Converter</b>
